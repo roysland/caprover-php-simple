@@ -1,0 +1,11 @@
+{
+    "name": "oyvin/php-default",
+    "type": "project",
+    "authors": [
+        {
+            "name": "Øyvind Røysland",
+            "email": "oyvind.roysland@schibsted.com"
+        }
+    ],
+    "require": {}
+}
