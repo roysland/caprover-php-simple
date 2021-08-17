@@ -8,7 +8,7 @@ if (isset($_GET['action'])) {
 
 switch ($action) {
   case 'default':
-    echo 'I am the default action. We\'re running on CapRover';
+    echo 'It works';
     break;
   case 'random':
       $query = file_get_contents('https://randomuser.me/api/');
